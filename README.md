@@ -10,10 +10,10 @@ POST and 107 HEAD requests, leaving 6 invalid requests.
 Graphical render with React + Chart.js
 =====================================================
 This project was bootstrapped with [Create React App]
-## Available Scripts
+## How to run:
 
-In the project directory, you can run:
-
+In the project directory:
+###  `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br />
